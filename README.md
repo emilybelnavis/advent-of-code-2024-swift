@@ -2,6 +2,10 @@
 
 [![Language](https://img.shields.io/badge/language-Swift-red.svg)](https://swift.org)
 
+Advent of Code (AOC) 2024 for Swifties project using the [Swift Starter Template](https://github.com/swiftlang/swift-aoc-starter-example).
+
+## What is Advent of Code
+
 Daily programming puzzles at [Advent of Code](<https://adventofcode.com/>), by
 [Eric Wastl](<http://was.tl/>). This is a small example starter project for
 building Advent of Code solutions.
